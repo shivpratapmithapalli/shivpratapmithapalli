@@ -1,9 +1,9 @@
 # Hi, I'm Shivpratap! ✨
 🎓 Artificial Intelligence and Data Science Student @ PICT, Pune.<br>
-🛠️ Building full-stack projects as a hobby - consistency is my secret weapon.<br>
+🛠️ Building full-stack projects as a hobby — consistency is my secret weapon.<br>
 💻 Currently deep in the LeetCode trenches & sharpening my Analytics skills.<br>
 📈 Always learning. Always evolving.<br><br>
-🌟 Come along for the ride - let’s build, connect, and grow together!<br>
+🌟 Come along for the ride — let’s build, connect, and grow together!<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivpratapmithapalli)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivpratap007)   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:risenlegend2005@gmail.com)
 
 ## 💻 Tech Stack 🧑‍💻
