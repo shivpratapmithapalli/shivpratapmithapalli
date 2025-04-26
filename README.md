@@ -1,5 +1,5 @@
 # Hi, I'm Shivpratap! ✨
-🎓 Artificial Intelligence / Data Science Student @ PICT, Pune<br>
+🎓 Artificial Intelligence and Data Science Student @ PICT, Pune.<br>
 🛠️ Building full-stack projects as a hobby — consistency is my secret weapon.<br>
 💻 Currently deep in the LeetCode trenches & sharpening my Analytics skills.<br>
 📈 Always learning. Always evolving.<br>
